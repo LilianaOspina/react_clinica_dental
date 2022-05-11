@@ -1,0 +1,19 @@
+:root {
+  --c-1: #5c6bc0;
+  --c-2: #00bcd4;
+}
+
+/* var(--c-5) */
+
+/* color: var(--c-1); */
+.card__container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 2%;
+}
+
+.cards__container {
+  display: flex;
+}

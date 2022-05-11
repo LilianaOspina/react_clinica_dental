@@ -1,0 +1,46 @@
+.home {
+    height: 100vh;
+}
+
+/* nav__containter-logo */
+.home__container-logo {
+    width: 10%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: flex-start;
+}
+
+/* nav__containter-menu */
+.home__container-menu {
+    padding: 0% 5%;
+    /* border: 1px solid black; */
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home__titulo {
+    width: 100%;
+    text-align: center;
+    /* border: 1px solid red; */
+
+}
+
+.home__menu-items {
+    width: 100%;
+    /* border: 1px solid red; */
+}
+
+/* items menu, selector mui */
+.css-heg063-MuiTabs-flexContainer {
+    justify-content: center;
+}
+
+/* nav__containter-users */
+.home__container-users {
+    /* border: 1px solid red; */
+    width: 10%;
+    display: flex;
+    justify-content: flex-end;
+
+}

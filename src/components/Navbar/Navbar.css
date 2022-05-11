@@ -1,0 +1,39 @@
+/* nav__containter-logo */
+.nav__container-logo{
+    width: 20%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: flex-start;
+}
+/* nav__containter-menu */
+.nav__container-menu{
+    padding: 0% 5%;
+    /* border: 1px solid black; */
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav__titulo{
+    width: 30%;
+    text-align: center;
+    /* border: 1px solid red; */
+
+}
+
+.nav__menu-items{
+    width: 69%;
+    /* border: 1px solid red; */
+    /* text-align: left; */
+}
+/* items menu, selector mui */
+.css-heg063-MuiTabs-flexContainer{
+    justify-content: center;
+}
+/* nav__containter-users */
+.nav__container-users{
+    /* border: 1px solid red; */
+    width: 10%;
+    display: flex;
+    justify-content: flex-end;
+
+}
